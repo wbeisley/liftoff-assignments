@@ -11,7 +11,7 @@ An updatable list of community fridges in Philadelphia that integrates Google Ma
 ### Features
 Users will be able to add community fridges by making an account, submitting a form that includes fridge name/sponsor, location and social media info. The information then populates a Google Map window that will have selectable icons which would display a new page (or window) that features the submitted information. 
 ### Technologies
-C#, Javascript, HTML/CSS, Bootstrap
+C#, Javascript, HTML/CSS, MySQL, Bootstrap
 ### What I'll Have to Learn
 How to integrate Google Maps into a website with user-submitted information population.
 ### Project Tracker
